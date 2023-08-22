@@ -1,0 +1,15 @@
+{
+  "name": "superhero-hunter-main",
+  "version": "1.0.0",
+  "description": "Fetch super-heroes through API",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshal",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
